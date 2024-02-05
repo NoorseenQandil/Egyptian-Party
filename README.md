@@ -16,7 +16,7 @@ Egyptian Party App shows count down time for party. You can reserve by sending y
 * Count down for the party time.
 
 ### 3. Menu for links
-* Navbar menu is inserted in vertical way.
+* Navbar menu is inserted in vertically way.
 
 ### 4. Reservation Form
 * Join us and reserve in the party by adding the required data in the form.
