@@ -2,7 +2,7 @@
 Egyptian Party App to show count down time for party. Created by HTML, CSS, Java script, Bootstrap and JQuery
 
 ## Main objective
-Egyption Party App shows count down time for party. You can reserve by sending your required data in form.
+Egyptian Party App shows count down time for party. You can reserve by sending your required data in form.
 
 ## Design
 ![design](https://github.com/NoorseenQandil/Egyption-Party/assets/70522199/1bad31d3-b423-46b6-8cc8-80c05b698de5)
